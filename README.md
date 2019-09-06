@@ -1,11 +1,11 @@
 # Converter_ThunderSTORM_SDmixer
 
-This converter prepares ThunderSTORM output files for spectral demixing with the SDmixer and SDmixer2 from Georgi Tadeus.
-
-
+This converter prepares ThunderSTORM output files for spectral demixing with the SDmixer and SDmixer2 from Georgi Tadeus, André Lampe and Jan Schmoranzer.
 It is written in python. You can either install Python yourself or simply download the .exe file. 
 
-Information about SDmixer2 download sources:
+
+
+Further information about SDmixer2 and download sources:
 
 https://github.com/gtadeus/sdmixer2
 
