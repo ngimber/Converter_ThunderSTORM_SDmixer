@@ -5,7 +5,9 @@ It is written in python. You can either install Python yourself or simply downlo
 
 
 
-Further information about SDmixer2 and download sources:
+
+
+Further information about SDmixer2 and additional download sources:
 
 https://github.com/gtadeus/sdmixer2
 
